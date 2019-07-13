@@ -73,3 +73,4 @@ bdbOrm.models.Product
         */
         console.log(asset.id)
     })
+
